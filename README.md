@@ -1,1 +1,1 @@
-# NewsPaper_07
+Final update of the project
